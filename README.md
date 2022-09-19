@@ -1,5 +1,5 @@
-**MI primer repositorio remoto**
+##MI primer repositorio remoto
 
-[x]Vamos con todo
+>Vamos con todo
 
 __Ahora__
